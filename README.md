@@ -9,7 +9,7 @@ The goal of this project was to understand the fundamentals of cloud infrastruct
 ## Technologies Used
 
 - AWS EC2
-- Linux (Ubuntu)
+- Linux
 - Nginx
 - SSH
 - HTML / CSS
